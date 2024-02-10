@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="BookTraining/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>BookTraining</source>
+        <target state="new">BookTraining</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your camera in order to take photos.</source>
+        <target state="new">You need to grant the app access to your camera in order to take photos.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <target state="new">You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BookTraining/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target state="new">%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ADDRESS" xml:space="preserve">
+        <source>ADDRESS</source>
+        <target state="new">ADDRESS</target>
+        <note>ADDRESS</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="new">About</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <target state="new">Camera</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Can you guess the movie from these emojis?" xml:space="preserve">
+        <source>Can you guess the movie from these emojis?</source>
+        <target state="new">Can you guess the movie from these emojis?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose your photo source" xml:space="preserve">
+        <source>Choose your photo source</source>
+        <target state="new">Choose your photo source</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DESCRIPTION" xml:space="preserve">
+        <source>DESCRIPTION</source>
+        <target state="new">DESCRIPTION</target>
+        <note>DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit id="Discover" xml:space="preserve">
+        <source>Discover</source>
+        <target state="new">Discover</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do Something #1" xml:space="preserve">
+        <source>Do Something #1</source>
+        <target state="new">Do Something #1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do Something #2" xml:space="preserve">
+        <source>Do Something #2</source>
+        <target state="new">Do Something #2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Facebook" xml:space="preserve">
+        <source>Facebook</source>
+        <target state="new">Facebook</target>
+        <note>Facebook</note>
+      </trans-unit>
+      <trans-unit id="Favorities" xml:space="preserve">
+        <source>Favorities</source>
+        <target state="new">Favorities</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FoodPin" xml:space="preserve">
+        <source>FoodPin</source>
+        <target state="new">FoodPin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GET STARTED" xml:space="preserve">
+        <source>GET STARTED</source>
+        <target state="new">GET STARTED</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get help from experts in 15 minutes." xml:space="preserve">
+        <source>Get help from experts in 15 minutes.</source>
+        <target state="new">Get help from experts in 15 minutes.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guess These Movie" xml:space="preserve">
+        <source>Guess These Movie</source>
+        <target state="new">Guess These Movie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Happy programming!" xml:space="preserve">
+        <source>Happy programming!</source>
+        <target state="new">Happy programming!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, World!" xml:space="preserve">
+        <source>Hello, World!</source>
+        <target state="new">Hello, World!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, world!" xml:space="preserve">
+        <source>Hello, world!</source>
+        <target state="new">Hello, world!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instagram" xml:space="preserve">
+        <source>Instagram</source>
+        <target state="new">Instagram</target>
+        <note>Instagram</note>
+      </trans-unit>
+      <trans-unit id="Instant Developer" xml:space="preserve">
+        <source>Instant Developer</source>
+        <target state="new">Instant Developer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark as favorite" xml:space="preserve">
+        <source>Mark as favorite</source>
+        <target state="new">Mark as favorite</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark's favorite" xml:space="preserve">
+        <source>Mark's favorite</source>
+        <target state="new">Mark's favorite</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NAME" xml:space="preserve">
+        <source>NAME</source>
+        <target state="new">NAME</target>
+        <note>NAME</note>
+      </trans-unit>
+      <trans-unit id="NEXT" xml:space="preserve">
+        <source>NEXT</source>
+        <target state="new">NEXT</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Restaurant" xml:space="preserve">
+        <source>New Restaurant</source>
+        <target state="new">New Restaurant</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not yet available" xml:space="preserve">
+        <source>Not yet available</source>
+        <target state="new">Not yet available</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="new">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHONE" xml:space="preserve">
+        <source>PHONE</source>
+        <target state="new">PHONE</target>
+        <note>PHONE</note>
+      </trans-unit>
+      <trans-unit id="Photo Library" xml:space="preserve">
+        <source>Photo Library</source>
+        <target state="new">Photo Library</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate it" xml:space="preserve">
+        <source>Rate it</source>
+        <target state="new">Rate it</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate us to App Store" xml:space="preserve">
+        <source>Rate us to App Store</source>
+        <target state="new">Rate us to App Store</target>
+        <note>Rate us to App Store</note>
+      </trans-unit>
+      <trans-unit id="Remove from favorites" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target state="new">Remove from favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reserve a table" xml:space="preserve">
+        <source>Reserve a table</source>
+        <target state="new">Reserve a table</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search restaurants..." xml:space="preserve">
+        <source>Search restaurants...</source>
+        <target state="new">Search restaurants...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <target state="new">Skip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sorry, this feature is not available yet. Please retry later." xml:space="preserve">
+        <source>Sorry, this feature is not available yet. Please retry later.</source>
+        <target state="new">Sorry, this feature is not available yet. Please retry later.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TYPE" xml:space="preserve">
+        <source>TYPE</source>
+        <target state="new">TYPE</target>
+        <note>TYPE</note>
+      </trans-unit>
+      <trans-unit id="Tap the button to find out the answer" xml:space="preserve">
+        <source>Tap the button to find out the answer</source>
+        <target state="new">Tap the button to find out the answer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tell us your Feeback" xml:space="preserve">
+        <source>Tell us your Feeback</source>
+        <target state="new">Tell us your Feeback</target>
+        <note>Tell us your Feeback</note>
+      </trans-unit>
+      <trans-unit id="Twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <target state="new">Twitter</target>
+        <note>Twitter</note>
+      </trans-unit>
+      <trans-unit id="What do you want to do?" xml:space="preserve">
+        <source>What do you want to do?</source>
+        <target state="new">What do you want to do?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🌳🏃‍♂️" xml:space="preserve">
+        <source>🌳🏃‍♂️</source>
+        <target state="new">🌳🏃‍♂️</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="👨‍⚕️🪄" xml:space="preserve">
+        <source>👨‍⚕️🪄</source>
+        <target state="new">👨‍⚕️🪄</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🕸️🧍🏻‍♂️" xml:space="preserve">
+        <source>🕸️🧍🏻‍♂️</source>
+        <target state="new">🕸️🧍🏻‍♂️</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
